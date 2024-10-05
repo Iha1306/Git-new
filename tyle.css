@@ -1,0 +1,105 @@
+[33mcommit 18e9dfbaaa6a522cf22d2e7beaa6bee71e846d67[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mstyle[m[33m, [m[1;31morigin/style[m[33m)[m
+Author: Iha1306 <iii-m-12@mail.ru>
+Date:   Sat Oct 5 17:44:25 2024 +0300
+
+    Included stylesheet into hello.html
+
+[33mcommit 1d93d3bf7009dd6416e1e1ceb9feabaaca9f4b45[m
+Author: Iha1306 <iii-m-12@mail.ru>
+Date:   Sat Oct 5 17:26:39 2024 +0300
+
+    Added copyright statement with email
+
+[33mcommit 66268fe23a476497010c3b73d53e5092bce0b09d[m
+Merge: 5ce2a47 55ac586
+Author: Iha1306 <iii-m-12@mail.ru>
+Date:   Sat Oct 5 17:24:53 2024 +0300
+
+    Merge branch 'main' of https://github.com/Iha1306/Git-new
+    
+    # Conflicts:
+    #       hello.html
+
+[33mcommit 5ce2a4789098d4112e9c017d2d0bcf67bd55c4c7[m
+Author: Iha1306 <iii-m-12@mail.ru>
+Date:   Sat Oct 5 17:19:29 2024 +0300
+
+    Added copyright statement with email
+
+[33mcommit 55ac58609521eae5ee312daf271fa71582595059[m
+Author: Iha1306 <iii-m-12@mail.ru>
+Date:   Sat Oct 5 17:19:29 2024 +0300
+
+    Added copyright statement
+
+[33mcommit d0bcbed6a556632e25ce33596836276d7df81bd4[m
+Author: Iha1306 <iii-m-12@mail.ru>
+Date:   Sat Oct 5 17:02:50 2024 +0300
+
+    Revert "Bad"
+    
+    This reverts commit 43c23aae6f95c7e8b32d2d3936821160fce79784.
+
+[33mcommit 43c23aae6f95c7e8b32d2d3936821160fce79784[m
+Author: Iha1306 <iii-m-12@mail.ru>
+Date:   Sat Oct 5 16:52:49 2024 +0300
+
+    Bad
+
+[33mcommit f0be3a171b532e6e514709200a25a755830e3fca[m[33m ([m[1;33mtag: [m[1;33mv1[m[33m)[m
+Author: Iha1306 <iii-m-12@mail.ru>
+Date:   Wed Oct 2 22:13:10 2024 +0300
+
+    change
+
+[33mcommit ea1cd4aebdd915b1cc7d4489d0631754ca001a89[m
+Merge: 7d7f882 5d6878a
+Author: Iha1306 <iii-m-12@mail.ru>
+Date:   Wed Sep 25 20:43:50 2024 +0300
+
+    Merge branch 'main' of https://github.com/Iha1306/Git-new
+    
+    # Conflicts:
+    #       hello.html
+
+[33mcommit 7d7f8827d6b4f64888747dee89cab6a03aba1d9b[m
+Author: Iha1306 <iii-m-12@mail.ru>
+Date:   Wed Sep 25 20:42:37 2024 +0300
+
+    Body
+
+[33mcommit 5d6878a4cb7aaf5fdd4c7c2b4bbaa25f796e4896[m
+Author: Игорь <iii-m-12@mail.ru>
+Date:   Wed Sep 25 20:37:31 2024 +0300
+
+    body hello.html
+
+[33mcommit 335a92fdcc2e31ca7a86fe196f0846efc06e4d65[m
+Merge: 3cca3e6 cff9c7b
+Author: Iha1306 <iii-m-12@mail.ru>
+Date:   Wed Sep 25 20:18:22 2024 +0300
+
+    Merge branch 'main' of https://github.com/Iha1306/Git-new
+    
+    # Conflicts:
+    #       hello.html
+
+[33mcommit cff9c7bf6b7e7edfe3a30cd7a41f642db652f819[m
+Author: Игорь <iii-m-12@mail.ru>
+Date:   Wed Sep 25 20:07:10 2024 +0300
+
+    Update hello.html
+    
+    изменения в файле
+
+[33mcommit 3cca3e6ea98a8e439cd23c202ffc054ea86e6dd9[m
+Author: Iha1306 <iii-m-12@mail.ru>
+Date:   Wed Sep 25 20:02:16 2024 +0300
+
+    commit 1
+
+[33mcommit 1d4b68c35f77483b642fad2c42153c68ec52c480[m
+Author: Игорь <iii-m-12@mail.ru>
+Date:   Sat Sep 21 14:37:12 2024 +0300
+
+    Update and rename hello.py to hello.html
