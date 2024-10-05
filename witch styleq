@@ -1,0 +1,163 @@
+* [33mcommit df525825a553809d00d8e2b7c384a5dafdc5c21b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+[31m|[m Author: Iha1306 <iii-m-12@mail.ru>
+[31m|[m Date:   Sat Oct 5 18:21:02 2024 +0300
+[31m|[m 
+[31m|[m     Added meta title
+[31m|[m   
+[31m|[m * [33mcommit 184765ece7076edeef1908888fb5c2b4e5ad7a2d[m[33m ([m[1;31morigin/main[m[33m)[m
+[31m|[m[31m/[m[33m|[m Merge: ad8e8ae 18e9dfb
+[31m|[m [33m|[m Author: Игорь <iii-m-12@mail.ru>
+[31m|[m [33m|[m Date:   Sat Oct 5 18:11:55 2024 +0300
+[31m|[m [33m|[m 
+[31m|[m [33m|[m     Merge pull request #1 from Iha1306/style
+[31m|[m [33m|[m     
+[31m|[m [33m|[m     Style
+[31m|[m [33m|[m 
+* [33m|[m [33mcommit ad8e8ae1e7fcd63cad6d39bcc358f0115652a38b[m
+[33m|[m [33m|[m Author: Iha1306 <iii-m-12@mail.ru>
+[33m|[m [33m|[m Date:   Sat Oct 5 18:09:24 2024 +0300
+[33m|[m [33m|[m 
+[33m|[m [33m|[m     Added README
+[33m|[m [33m|[m   
+[33m|[m [33m|[m * [33mcommit 64299b2bff4c8d6fa4ec18f42ec0e00eebc8586c[m[33m ([m[1;31morigin/style[m[33m, [m[1;32mstyle[m[33m)[m
+[33m|[m [33m|[m[33m/[m  Author: Iha1306 <iii-m-12@mail.ru>
+[33m|[m [33m|[m   Date:   Sat Oct 5 17:57:08 2024 +0300
+[33m|[m [33m|[m   
+[33m|[m [33m|[m       Renamed hello.html; moved style.css
+[33m|[m [33m|[m 
+[33m|[m * [33mcommit 18e9dfbaaa6a522cf22d2e7beaa6bee71e846d67[m
+[33m|[m [34m|[m Author: Iha1306 <iii-m-12@mail.ru>
+[33m|[m [34m|[m Date:   Sat Oct 5 17:44:25 2024 +0300
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Included stylesheet into hello.html
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit 09eac20bb0b74d759b79e1f337942d82ccfad676[m
+[33m|[m[33m/[m  Author: Iha1306 <iii-m-12@mail.ru>
+[33m|[m   Date:   Sat Oct 5 17:41:49 2024 +0300
+[33m|[m   
+[33m|[m       Added css stylesheet
+[33m|[m   
+*   [33mcommit df5db1c9ea2204450564cf6a2f3514ef701b96ff[m
+[35m|[m[36m\[m  Merge: 1d93d3b b768a94
+[35m|[m [36m|[m Author: Iha1306 <iii-m-12@mail.ru>
+[35m|[m [36m|[m Date:   Sat Oct 5 17:29:29 2024 +0300
+[35m|[m [36m|[m 
+[35m|[m [36m|[m     Merge branch 'main' of https://github.com/Iha1306/Git-new
+[35m|[m [36m|[m 
+[35m|[m * [33mcommit b768a9414b2186e69d442f11c9cf161d7fcd7391[m
+[35m|[m [36m|[m Author: Iha1306 <iii-m-12@mail.ru>
+[35m|[m [36m|[m Date:   Sat Oct 5 17:26:39 2024 +0300
+[35m|[m [36m|[m 
+[35m|[m [36m|[m     Added copyright statement
+[35m|[m [36m|[m 
+* [36m|[m [33mcommit 1d93d3bf7009dd6416e1e1ceb9feabaaca9f4b45[m
+[36m|[m[36m/[m  Author: Iha1306 <iii-m-12@mail.ru>
+[36m|[m   Date:   Sat Oct 5 17:26:39 2024 +0300
+[36m|[m   
+[36m|[m       Added copyright statement with email
+[36m|[m   
+*   [33mcommit 66268fe23a476497010c3b73d53e5092bce0b09d[m
+[1;31m|[m[1;32m\[m  Merge: 5ce2a47 55ac586
+[1;31m|[m [1;32m|[m Author: Iha1306 <iii-m-12@mail.ru>
+[1;31m|[m [1;32m|[m Date:   Sat Oct 5 17:24:53 2024 +0300
+[1;31m|[m [1;32m|[m 
+[1;31m|[m [1;32m|[m     Merge branch 'main' of https://github.com/Iha1306/Git-new
+[1;31m|[m [1;32m|[m     
+[1;31m|[m [1;32m|[m     # Conflicts:
+[1;31m|[m [1;32m|[m     #       hello.html
+[1;31m|[m [1;32m|[m 
+[1;31m|[m * [33mcommit 55ac58609521eae5ee312daf271fa71582595059[m
+[1;31m|[m [1;32m|[m Author: Iha1306 <iii-m-12@mail.ru>
+[1;31m|[m [1;32m|[m Date:   Sat Oct 5 17:19:29 2024 +0300
+[1;31m|[m [1;32m|[m 
+[1;31m|[m [1;32m|[m     Added copyright statement
+[1;31m|[m [1;32m|[m 
+* [1;32m|[m [33mcommit 5ce2a4789098d4112e9c017d2d0bcf67bd55c4c7[m
+[1;32m|[m[1;32m/[m  Author: Iha1306 <iii-m-12@mail.ru>
+[1;32m|[m   Date:   Sat Oct 5 17:19:29 2024 +0300
+[1;32m|[m   
+[1;32m|[m       Added copyright statement with email
+[1;32m|[m 
+* [33mcommit d0bcbed6a556632e25ce33596836276d7df81bd4[m
+[1;32m|[m Author: Iha1306 <iii-m-12@mail.ru>
+[1;32m|[m Date:   Sat Oct 5 17:02:50 2024 +0300
+[1;32m|[m 
+[1;32m|[m     Revert "Bad"
+[1;32m|[m     
+[1;32m|[m     This reverts commit 43c23aae6f95c7e8b32d2d3936821160fce79784.
+[1;32m|[m 
+* [33mcommit 43c23aae6f95c7e8b32d2d3936821160fce79784[m
+[1;32m|[m Author: Iha1306 <iii-m-12@mail.ru>
+[1;32m|[m Date:   Sat Oct 5 16:52:49 2024 +0300
+[1;32m|[m 
+[1;32m|[m     Bad
+[1;32m|[m 
+* [33mcommit f0be3a171b532e6e514709200a25a755830e3fca[m[33m ([m[1;33mtag: [m[1;33mv1[m[33m)[m
+[1;32m|[m Author: Iha1306 <iii-m-12@mail.ru>
+[1;32m|[m Date:   Wed Oct 2 22:13:10 2024 +0300
+[1;32m|[m 
+[1;32m|[m     change
+[1;32m|[m   
+*   [33mcommit ea1cd4aebdd915b1cc7d4489d0631754ca001a89[m
+[1;33m|[m[1;34m\[m  Merge: 7d7f882 5d6878a
+[1;33m|[m [1;34m|[m Author: Iha1306 <iii-m-12@mail.ru>
+[1;33m|[m [1;34m|[m Date:   Wed Sep 25 20:43:50 2024 +0300
+[1;33m|[m [1;34m|[m 
+[1;33m|[m [1;34m|[m     Merge branch 'main' of https://github.com/Iha1306/Git-new
+[1;33m|[m [1;34m|[m     
+[1;33m|[m [1;34m|[m     # Conflicts:
+[1;33m|[m [1;34m|[m     #       hello.html
+[1;33m|[m [1;34m|[m 
+[1;33m|[m * [33mcommit 5d6878a4cb7aaf5fdd4c7c2b4bbaa25f796e4896[m
+[1;33m|[m [1;34m|[m Author: Игорь <iii-m-12@mail.ru>
+[1;33m|[m [1;34m|[m Date:   Wed Sep 25 20:37:31 2024 +0300
+[1;33m|[m [1;34m|[m 
+[1;33m|[m [1;34m|[m     body hello.html
+[1;33m|[m [1;34m|[m 
+* [1;34m|[m [33mcommit 7d7f8827d6b4f64888747dee89cab6a03aba1d9b[m
+[1;34m|[m[1;34m/[m  Author: Iha1306 <iii-m-12@mail.ru>
+[1;34m|[m   Date:   Wed Sep 25 20:42:37 2024 +0300
+[1;34m|[m   
+[1;34m|[m       Body
+[1;34m|[m   
+*   [33mcommit 335a92fdcc2e31ca7a86fe196f0846efc06e4d65[m
+[1;35m|[m[1;36m\[m  Merge: 3cca3e6 cff9c7b
+[1;35m|[m [1;36m|[m Author: Iha1306 <iii-m-12@mail.ru>
+[1;35m|[m [1;36m|[m Date:   Wed Sep 25 20:18:22 2024 +0300
+[1;35m|[m [1;36m|[m 
+[1;35m|[m [1;36m|[m     Merge branch 'main' of https://github.com/Iha1306/Git-new
+[1;35m|[m [1;36m|[m     
+[1;35m|[m [1;36m|[m     # Conflicts:
+[1;35m|[m [1;36m|[m     #       hello.html
+[1;35m|[m [1;36m|[m 
+[1;35m|[m * [33mcommit cff9c7bf6b7e7edfe3a30cd7a41f642db652f819[m
+[1;35m|[m [1;36m|[m Author: Игорь <iii-m-12@mail.ru>
+[1;35m|[m [1;36m|[m Date:   Wed Sep 25 20:07:10 2024 +0300
+[1;35m|[m [1;36m|[m 
+[1;35m|[m [1;36m|[m     Update hello.html
+[1;35m|[m [1;36m|[m     
+[1;35m|[m [1;36m|[m     изменения в файле
+[1;35m|[m [1;36m|[m 
+[1;35m|[m * [33mcommit 1d4b68c35f77483b642fad2c42153c68ec52c480[m
+[1;35m|[m [1;36m|[m Author: Игорь <iii-m-12@mail.ru>
+[1;35m|[m [1;36m|[m Date:   Sat Sep 21 14:37:12 2024 +0300
+[1;35m|[m [1;36m|[m 
+[1;35m|[m [1;36m|[m     Update and rename hello.py to hello.html
+[1;35m|[m [1;36m|[m 
+[1;35m|[m * [33mcommit aeb1ce22fa9e95e10701b53ac332b4a13e4c093b[m
+[1;35m|[m [1;36m|[m Author: Игорь <iii-m-12@mail.ru>
+[1;35m|[m [1;36m|[m Date:   Sat Sep 21 14:35:38 2024 +0300
+[1;35m|[m [1;36m|[m 
+[1;35m|[m [1;36m|[m     Create hello.py
+[1;35m|[m [1;36m|[m 
+* [1;36m|[m [33mcommit 3cca3e6ea98a8e439cd23c202ffc054ea86e6dd9[m
+[1;36m|[m[1;36m/[m  Author: Iha1306 <iii-m-12@mail.ru>
+[1;36m|[m   Date:   Wed Sep 25 20:02:16 2024 +0300
+[1;36m|[m   
+[1;36m|[m       commit 1
+[1;36m|[m 
+* [33mcommit 2973ccff79ab93c4062ca33a08d25031f446db95[m
+  Author: iha1306 <iii-m-12@mail.ru>
+  Date:   Thu Sep 12 16:45:09 2024 +0300
+  
+      Добавили файл
